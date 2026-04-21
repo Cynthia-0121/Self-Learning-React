@@ -1,0 +1,23 @@
+.list-category {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 10px;
+  text-align: center;
+  border: 3px solid;
+  border-radius: 5px;
+  background-color: bisque;
+}
+
+.list-items {
+  font-size: 2em;
+  list-style: none; /* have no bullet point, number all thing*/
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+.list-items li:hover {
+  color: grey;
+  cursor: pointer;
+}

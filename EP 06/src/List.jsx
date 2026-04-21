@@ -12,7 +12,7 @@ function List () {
                     {id: "F004", name: "cherry", calories: 37},
                     {id: "F005", name: "banana", calories: 67}];
 
-    // sort ()
+    // sort
     // fruits.sort((a,b) => a.name.localeCompare(b.name)); // ALPHABETICAL
     // fruits.sort((a,b) => b.name.localeCompare(a.name)); // REVERSE ALPHABETICAL
     // fruits.sort((a,b) => a.calories - b.calories); // NUMERIC
