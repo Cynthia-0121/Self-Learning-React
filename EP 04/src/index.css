@@ -1,0 +1,13 @@
+.student {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+    border: 1.5px solid rgba(198, 197, 197, 0.669);
+    box-shadow: 5px 5px 5px grey;
+    max-width: 250px;
+    padding-right: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
