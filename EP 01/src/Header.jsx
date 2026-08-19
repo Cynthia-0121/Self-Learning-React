@@ -2,6 +2,7 @@
 // all the things inside header are the children
 function Header() {
     return (
+        // need to use parent to pack cuz react only supports one parent element
         <header> 
                 <h1>My Website</h1>
                 <nav>
