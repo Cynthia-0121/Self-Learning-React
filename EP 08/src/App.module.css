@@ -1,0 +1,43 @@
+.name, .age, .isEmployed {
+    font-size: 20px;
+}
+
+.background {
+    background-color: #fffdfd;   
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.buttonUpdateAge, .buttonUpdateName, .buttonDecrease, .buttonIncrease {
+    height: 40px;
+    width: 120px;
+    background-color: #217aff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+
+}
+
+.buttonClearAge, .buttonReset{
+    height: 40px;
+    width: 120px;
+    background-color: #ffffff;
+    border: 1px solid #217aff;
+    border-radius: 5px;
+    color: #217aff;
+    cursor: pointer;
+}
+
+.counterContainer {
+    text-align: center;
+}
+
+.number {
+    font-size: 50px;
+}
